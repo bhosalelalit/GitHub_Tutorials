@@ -1,0 +1,1 @@
+This is the first text file I'm using to test git on my MacBook
